@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    background-color: rgb(255, 127, 223);
+    width: 630px;
+    margin: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+li {
+    margin: 10px 0px;
+}
+
+.lista {
+    width: 630px;
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(194, 194, 194);
+    box-sizing: border-box;
+}
+
+.valor-total {
+    width: 630px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(194, 194, 194);
+    box-sizing: border-box;
+    font-size: 25px;
+}
+
+.total {
+    background-color: rgb(255, 127, 223);
+}
