@@ -11,6 +11,12 @@ li {
     margin: 10px 0px;
 }
 
+#toda-a-lista {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
 .lista {
     width: 630px;
     margin: 10px;
