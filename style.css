@@ -1,6 +1,10 @@
+body {
+    background-color: #DFE9F5;
+}
+
 h1 {
     text-align: center;
-    background-color: rgb(255, 127, 223);
+    background-color: #7BB4E3;
     width: 630px;
     margin: 10px;
     border-radius: 10px;
@@ -8,7 +12,7 @@ h1 {
 }
 
 li {
-    margin: 10px 0px;
+    margin: 20px 0px;
 }
 
 #toda-a-lista {
@@ -18,25 +22,27 @@ li {
 }
 
 .lista {
+    color: #003f4d;
     width: 630px;
     margin: 10px;
     font-size: 20px;
-    padding: 10px;
+    padding: 20px 10px;
     border-radius: 10px;
-    background-color: rgb(194, 194, 194);
+    background-color: rgb(204, 222, 241);
     box-sizing: border-box;
 }
 
 .valor-total {
+    text-align:center;
     width: 630px;
     margin: 10px;
     padding: 10px;
     border-radius: 10px;
-    background-color: rgb(194, 194, 194);
+    background-color: #C5D4E8;
     box-sizing: border-box;
     font-size: 25px;
 }
 
 .total {
-    background-color: rgb(255, 127, 223);
+    background-color: #7BB4E3;
 }
